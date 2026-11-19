@@ -88,7 +88,6 @@ export const projects: Project[] = [
       "https://i.ytimg.com/vi/zS2w_RkOb9k/maxresdefault.jpg",
     platform: "youtube",
     videoUrl: "https://www.youtube.com/embed/zS2w_RkOb9k",
-    featured: true,
   },
   {
     id: "5",
@@ -138,6 +137,7 @@ export const projects: Project[] = [
       "https://i.ytimg.com/vi/rVN-sICq5vA/maxresdefault.jpg",
     platform: "youtube",
     videoUrl: "https://www.youtube.com/embed/rVN-sICq5vA",
+    featured: true,
   },
   {
     id: "8",
